@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "id": "1dadh",
+            "flightTo": "LHR – DXB",
+            "flightBack": "DXB - LHR",
+            "timeTo": "10:45 - 08:00",
+            "timeBack": "11:20 - 00:50",
+            "travelToTime": "34:15",
+            "travelBackTime": "16:30",
+            "transfersTo": [],
+            "transfersBack": [],
+            "price": "13 300",
+            "logo": "FlightCompanyLogo",
+            "totalTime": ""
+        },
+        {
+            "id": "1dadhaggag",
+            "flightTo": "LHR – DXB",
+            "flightBack": "DXB - LHR",
+            "timeTo": "10:45 - 08:00",
+            "timeBack": "11:20 - 00:50",
+            "travelToTime": "17:15",
+            "travelBackTime": "40:30",
+            "transfersTo": [
+                "HKG"
+            ],
+            "transfersBack": [
+                "HKG"
+            ],
+            "price": "13 200",
+            "logo": "FlightCompanyLogo",
+            "totalTime": ""
+        },
+        {
+            "id": "1dadhafgadddvh",
+            "flightTo": "LHR – DXB",
+            "flightBack": "DXB - LHR",
+            "timeTo": "10:45 - 08:00",
+            "timeBack": "11:20 - 00:50",
+            "travelToTime": "20:15",
+            "travelBackTime": "13:30",
+            "transfersTo": [
+                "HKG",
+                "2"
+            ],
+            "transfersBack": [
+                "HKG",
+                "2"
+            ],
+            "price": "13 111",
+            "logo": "FlightCompanyLogo",
+            "totalTime": ""
+        },
+        {
+            "id": "1dadhasssssvvvfgah",
+            "flightTo": "LHR – DXB",
+            "flightBack": "DXB - LHR",
+            "timeTo": "10:45 - 08:00",
+            "timeBack": "11:20 - 00:50",
+            "travelToTime": "21:15",
+            "travelBackTime": "12:30",
+            "transfersTo": [
+                "HKG",
+                "2"
+            ],
+            "transfersBack": [
+                "HKG",
+                "2"
+            ],
+            "price": "13 300",
+            "logo": "FlightCompanyLogo",
+            "totalTime": ""
+        },
+        {
+            "id": "1daddddshafgah",
+            "flightTo": "LHR – DXB",
+            "flightBack": "DXB - LHR",
+            "timeTo": "10:45 - 08:00",
+            "timeBack": "11:20 - 00:50",
+            "travelToTime": "11:15",
+            "travelBackTime": "9:30",
+            "transfersTo": [
+                "HKG",
+                "2"
+            ],
+            "transfersBack": [
+                "HKG",
+                "2"
+            ],
+            "price": "13 300",
+            "logo": "FlightCompanyLogo",
+            "totalTime": ""
+        },
+        {
+            "id": "1dadhafdaaaaaaagah",
+            "flightTo": "LHR – DXB",
+            "flightBack": "DXB - LHR",
+            "timeTo": "10:45 - 08:00",
+            "timeBack": "11:20 - 00:50",
+            "travelToTime": "34:15",
+            "travelBackTime": "16:30",
+            "transfersTo": [
+                "HKG",
+                "2"
+            ],
+            "transfersBack": [
+                "HKG",
+                "2"
+            ],
+            "price": "13 300",
+            "logo": "FlightCompanyLogo",
+            "totalTime": ""
+        },
+        {
+            "id": "1dagegedhafgah",
+            "flightTo": "LHR – DXB",
+            "flightBack": "DXB - LHR",
+            "timeTo": "10:45 - 08:00",
+            "timeBack": "11:20 - 00:50",
+            "travelToTime": "34:15",
+            "travelBackTime": "16:30",
+            "transfersTo": [
+                "HKG",
+                "2"
+            ],
+            "transfersBack": [
+                "HKG",
+                "2"
+            ],
+            "price": "13 300",
+            "logo": "FlightCompanyLogo",
+            "totalTime": ""
+        }
+    ]
+}

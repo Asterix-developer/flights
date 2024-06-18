@@ -1,0 +1,46 @@
+.filters {
+    display: flex;
+    flex-direction: column;
+
+    &__head {
+        padding: 20px;
+        margin: 0;
+    }
+
+    &__list {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+
+        &-item {
+            display: flex;
+            padding: 10px 20px;
+            cursor: url('../../assets/cursor.svg'), pointer;
+
+            label {
+                padding-left: 10px;
+                cursor: url('../../assets/cursor.svg'), pointer;
+            }
+        }
+
+        &-item:hover {
+            background: rgba(241, 252, 255, 1);
+        }
+
+        input[type='checkbox'] {
+            display: none;
+
+        }
+
+
+        h2 {
+            font-style: normal;
+            font-weight: 600;
+            font-size: 13px;
+            line-height: 20px;
+            display: flex;
+            align-items: center;
+            color: #211C1C;
+        }
+    }
+}

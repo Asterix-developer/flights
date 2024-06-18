@@ -1,0 +1,19 @@
+.more-button {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    cursor: url('../../assets/cursor.svg'), pointer;
+    top: calc(50% - 50px/2 + 600px);
+    padding: 15px;
+    margin: 20px;
+    background: #2196F3;
+    border-radius: 5px;
+}
